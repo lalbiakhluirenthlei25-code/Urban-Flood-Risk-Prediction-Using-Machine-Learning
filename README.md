@@ -1,0 +1,2 @@
+# Urban-Flood-Risk-Prediction-Using-Machine-Learning
+Urban flooding is a severe environmental hazard triggered when intense rainfall generates more stormwater runoff than urban drainage infrastructure can convey away. While physical hydraulic simulations (like SWMM or hydrodynamic 2D pipe models) are computationally demanding, a data-driven **Machine Learning (ML)** model can learn relationships dire
